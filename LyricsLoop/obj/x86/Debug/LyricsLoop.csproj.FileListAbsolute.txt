@@ -1,0 +1,14 @@
+/Users/ella/Desktop/LyricsLoop/LyricsLoop/bin/Debug/LyricsLoop.exe
+/Users/ella/Desktop/LyricsLoop/LyricsLoop/bin/Debug/LyricsLoop.pdb
+/Users/ella/Desktop/LyricsLoop/LyricsLoop/obj/x86/Debug/LyricsLoop.csprojResolveAssemblyReference.cache
+/Users/ella/Desktop/LyricsLoop/LyricsLoop/obj/x86/Debug/LyricsLoop.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/LyricsLoop/LyricsLoop/obj/x86/Debug/LyricsLoop.exe
+/Users/ella/Desktop/LyricsLoop/LyricsLoop/obj/x86/Debug/LyricsLoop.pdb
+D:\workspace\Programming baiduyun\LyricsLoop\LyricsLoop\bin\Debug\LyricsLoop.exe.config
+D:\workspace\Programming baiduyun\LyricsLoop\LyricsLoop\bin\Debug\LyricsLoop.exe
+D:\workspace\Programming baiduyun\LyricsLoop\LyricsLoop\bin\Debug\LyricsLoop.pdb
+D:\workspace\Programming baiduyun\LyricsLoop\LyricsLoop\obj\x86\Debug\LyricsLoop.csproj.AssemblyReference.cache
+D:\workspace\Programming baiduyun\LyricsLoop\LyricsLoop\obj\x86\Debug\LyricsLoop.csproj.SuggestedBindingRedirects.cache
+D:\workspace\Programming baiduyun\LyricsLoop\LyricsLoop\obj\x86\Debug\LyricsLoop.csproj.CoreCompileInputs.cache
+D:\workspace\Programming baiduyun\LyricsLoop\LyricsLoop\obj\x86\Debug\LyricsLoop.exe
+D:\workspace\Programming baiduyun\LyricsLoop\LyricsLoop\obj\x86\Debug\LyricsLoop.pdb
